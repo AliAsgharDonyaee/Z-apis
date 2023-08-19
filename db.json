@@ -386,7 +386,7 @@
 					"brand": "NIKE",
 					"price": 159.59,
 					"off": 10,
-					"imgurl": "../../assets/products/nike/1.png",
+					"imgurl": "/nike/1.png",
 					"sizes": {
 						"sm": 2,
 						"md": 3,
@@ -403,7 +403,7 @@
 					"brand": "NIKE",
 					"price": 179.35,
 					"off": 0,
-					"imgurl": "../../assets/products/nike/2.png",
+					"imgurl": "/nike/2.png",
 					"sizes": {
 						"sm": 0,
 						"md": 32,
@@ -420,7 +420,7 @@
 					"brand": "NIKE",
 					"price": 199.99,
 					"off": 5,
-					"imgurl": "../../assets/products/nike/3.png",
+					"imgurl": "/nike/3.png",
 					"sizes": {
 						"sm": 11,
 						"md": 32,
@@ -437,7 +437,7 @@
 					"brand": "NIKE",
 					"price": 179.35,
 					"off": 0,
-					"imgurl": "../../assets/products/nike/4.png",
+					"imgurl": "/nike/4.png",
 					"sizes": {
 						"sm": 0,
 						"md": 32,
@@ -454,7 +454,7 @@
 					"brand": "NIKE",
 					"price": 250.35,
 					"off": 0,
-					"imgurl": "../../assets/products/nike/5.png",
+					"imgurl": "/nike/5.png",
 					"sizes": {
 						"sm": 0,
 						"md": 32,
@@ -471,7 +471,7 @@
 					"brand": "NIKE",
 					"price": 450.35,
 					"off": 0,
-					"imgurl": "../../assets/products/nike/6.png",
+					"imgurl": "/nike/6.png",
 					"sizes": {
 						"sm": 0,
 						"md": 0,
@@ -490,7 +490,7 @@
 					"brand": "ADIDAS",
 					"price": 159.59,
 					"off": 10,
-					"imgurl": "../../assets/products/adidas/1.png",
+					"imgurl": "/adidas/1.png",
 					"sizes": {
 						"sm": 2,
 						"md": 3,
@@ -507,7 +507,7 @@
 					"brand": "ADIDAS",
 					"price": 179.35,
 					"off": 0,
-					"imgurl": "../../assets/products/adidas/2.png",
+					"imgurl": "/adidas/2.png",
 					"sizes": {
 						"sm": 0,
 						"md": 32,
@@ -524,7 +524,7 @@
 					"brand": "ADIDAS",
 					"price": 199.99,
 					"off": 5,
-					"imgurl": "../../assets/products/adidas/3.png",
+					"imgurl": "/adidas/3.png",
 					"sizes": {
 						"sm": 11,
 						"md": 32,
@@ -541,7 +541,7 @@
 					"brand": "ADIDAS",
 					"price": 179.35,
 					"off": 0,
-					"imgurl": "../../assets/products/adidas/4.png",
+					"imgurl": "/adidas/4.png",
 					"sizes": {
 						"sm": 0,
 						"md": 32,
@@ -558,7 +558,7 @@
 					"brand": "ADIDAS",
 					"price": 250.35,
 					"off": 0,
-					"imgurl": "../../assets/products/adidas/5.png",
+					"imgurl": "/adidas/5.png",
 					"sizes": {
 						"sm": 0,
 						"md": 32,
@@ -575,7 +575,7 @@
 					"brand": "ADIDAS",
 					"price": 450.35,
 					"off": 0,
-					"imgurl": "../../assets/products/adidas/6.png",
+					"imgurl": "/adidas/6.png",
 					"sizes": {
 						"sm": 0,
 						"md": 0,
@@ -594,7 +594,7 @@
 					"brand": "NEW BALANCE",
 					"price": 159.59,
 					"off": 10,
-					"imgurl": "../../assets/products/nb/1.png",
+					"imgurl": "/nb/1.png",
 					"sizes": {
 						"sm": 2,
 						"md": 3,
@@ -611,7 +611,7 @@
 					"brand": "NEW BALANCE",
 					"price": 179.35,
 					"off": 0,
-					"imgurl": "../../assets/products/nb/2.png",
+					"imgurl": "/nb/2.png",
 					"sizes": {
 						"sm": 0,
 						"md": 32,
@@ -628,7 +628,7 @@
 					"brand": "NEW BALANCE",
 					"price": 199.99,
 					"off": 5,
-					"imgurl": "../../assets/products/nb/3.png",
+					"imgurl": "/nb/3.png",
 					"sizes": {
 						"sm": 11,
 						"md": 32,
@@ -645,7 +645,7 @@
 					"brand": "NEW BALANCE",
 					"price": 179.35,
 					"off": 0,
-					"imgurl": "../../assets/products/nb/4.png",
+					"imgurl": "/nb/4.png",
 					"sizes": {
 						"sm": 0,
 						"md": 32,
@@ -662,7 +662,7 @@
 					"brand": "NEW BALANCE",
 					"price": 250.35,
 					"off": 0,
-					"imgurl": "../../assets/products/nb/5.png",
+					"imgurl": "/nb/5.png",
 					"sizes": {
 						"sm": 0,
 						"md": 32,
@@ -679,7 +679,7 @@
 					"brand": "NEW BALANCE",
 					"price": 450.35,
 					"off": 0,
-					"imgurl": "../../assets/products/nb/6.png",
+					"imgurl": "/nb/6.png",
 					"sizes": {
 						"sm": 0,
 						"md": 0,
